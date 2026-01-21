@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Salut, moi c'est Garchinsight ! 👋
+### 🚀 Projets à la Une
 
+<div align="center">
+  <a href="https://github.com/Garchinsight/segmentation_Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=segmentation_Client&theme=radical" alt="Segmentation Client Project">
+  </a>
+  <a href="https://github.com/Garchinsight/Garchinsight.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=Garchinsight.github.io&theme=radical" alt="Site Portfolio">
+  </a>
+</div>
 ### 👨‍💻 Développeur [Votre Spécialité : ex. Fullstack / Data Science]
 
 - 🔭 Je travaille actuellement sur **[Nom du projet]**
