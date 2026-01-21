@@ -1,38 +1,24 @@
-## Hi there 👋
+# Salut, moi c'est EL GARCH Tarek ! 👋
 
-<!--
-**Garchinsight/Garchinsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Salut, moi c'est Garchinsight ! 👋
 ### 🚀 Projets à la Une
 
 <div align="center">
   <a href="https://github.com/Garchinsight/segmentation_Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=segmentation_Client&theme=radical" alt="Segmentation Client Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=segmentation_Client&theme=radical" alt="Segmentation Client">
   </a>
   <a href="https://github.com/Garchinsight/Garchinsight.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=Garchinsight.github.io&theme=radical" alt="Site Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Garchinsight&repo=Garchinsight.github.io&theme=radical" alt="Portfolio Website">
   </a>
 </div>
-### 👨‍💻 Développeur [Votre Spécialité : ex. Fullstack / Data Science]
-
-- 🔭 Je travaille actuellement sur **[Nom du projet]**
-- 🌱 J'apprends en ce moment **[Techno ex: React, Go, Docker]**
-- 💬 Interrogez-moi sur **[Vos domaines d'expertise]**
-- 📫 Comment me joindre : **[Votre email ou lien LinkedIn]**
 
 ---
+
+### 👨‍💻 À propos de moi
+- 🎓 **Spécialité :** Data Science & Analyse de données
+- 🔭 **Projet actuel :** Segmentation de clientèle via Machine Learning (Jupyter Notebook)
+- 🌱 **J'apprends en ce moment :** Optimisation de modèles et déploiement Docker
+- 💬 **Interrogez-moi sur :** Python, Data Visualisation et statistiques
+- 📫 **Me joindre :** [easymoneyandlife@gmail.com](mailto:easymoneyandlife@gmail.com)
 
 ### 🛠 Compétences
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,4 +26,4 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Statistiques GitHub
-![Stats de Garchinsight](https://github-readme-stats.vercel.app/api?username=Garchinsight&show_icons=true&theme=radical)
+![Stats de Tarek](https://github-readme-stats.vercel.app/api?username=Garchinsight&show_icons=true&theme=radical)
