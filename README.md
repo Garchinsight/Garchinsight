@@ -16,7 +16,7 @@
 ### 👨‍💻 À propos de moi
 - 🎓 **Spécialité :** Data Science & Analyse de données
 - 🔭 **Projet actuel :** Segmentation de clientèle via Machine Learning (Jupyter Notebook)
-- 🌱 **J'apprends en ce moment :** Optimisation de modèles et déploiement Docker
+- 🌱 **J'apprends en ce moment :** Optimisation de modèles et Data Science
 - 💬 **Interrogez-moi sur :** Python, Data Visualisation et statistiques
 - 📫 **Me joindre :** [easymoneyandlife@gmail.com](mailto:easymoneyandlife@gmail.com)
 
